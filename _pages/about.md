@@ -51,7 +51,7 @@ Navigation 🧭
 - **Degree**: Bachelors in Computer Science
 - **Cumulative GPA**: 9.72/10 
 - **Location**: Pilani, India
-- **Expected Coursework**: Data Structures & Algorithms, Database Management Systems, Deep Learning, Data Mining, Probability & Statistics, Discrete Mathematics, Mathematics 1, 2, 3
+- **Coursework**: Data Structures & Algorithms, Database Management Systems, Deep Learning, Data Mining, Probability & Statistics, Discrete Mathematics, Mathematics 1, 2, 3
 - **Honours/Awards**: Distinction (Top 4% in graduating class), Academic Excellence Awardee - Merit Scholarship (All 4 years), Awards for Institution's Highest Recognition in Innovation, Research, and Entrepreneurship
 - **Timeline**: July 2019 - June 2023
 
