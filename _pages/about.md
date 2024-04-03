@@ -35,19 +35,19 @@ Navigation 🧭
 
 🎓 Education
 ------
-### Harvard University
+### 🏫 Harvard University 
 - **School**: Griffin Graduate School of Arts and Sciences (GSAS) & John A. Paulson School of Engineering and Applied Sciences (SEAS)
 - **Degree**: Masters in Data Science (Computer Science and Statistics)
 - **Location**: Cambridge, Massachusetts, USA
 - **Expected Coursework**: Advanced Machine Learning, Time Series & Prediction, Statistical Machine Learning, Advanced Topics in Data Science, Stochastic Methods for Data Analysis, Inference, and Optimization, Systems Development for Computational Science
 - **Timeline**: August 2024 - December 2025
 
-### Massachusetts Institute of Technology (MIT)
-- **Concentration**: Cross Registration - NLP & Applied Mathematics
+### 🏫 Massachusetts Institute of Technology (MIT)
+- **Concentration**: NLP & Applied Mathematics - Cross Registration with Harvard 
 - **Location**: Cambridge, Massachusetts, USA
 - **Expected Coursework**: NLP, ML, Financial Mathematics
 
-### Birla Institute of Technology & Science - BITS Pilani
+### 🏫 Birla Institute of Technology & Science - BITS Pilani
 - **Degree**: Bachelors in Computer Science
 - **Grade**: 9.72/10 CGPA
 - **Location**: Pilani, India
@@ -55,22 +55,11 @@ Navigation 🧭
 - **Honours/Awards**: Distinction (Top 4% in graduating class), Academic Excellence Awardee - Merit Scholarship (All 4 years), Awards for Institution's Highest Recognition in Innovation, Research, and Entrepreneurship
 - **Timeline**: July 2019 - June 2023
 
-### High School: Ryan International School
+### 🏫 High School: Ryan International School
 - **Subjects**: Physics, Chemistry, and Math
 - - **Grade**: Overall Percentage: 95%
 - **Location**: Navi Mumbai, India
 - **Timeline**: July 2017 - July 2019
-
-
-## 🎓 Education
-
-| Institution                                            | Degree/Major                              | Location               | Timeline          | Details                                                                                                               |
-|--------------------------------------------------------|-------------------------------------------|------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Harvard University**                                 | Masters in Data Science (CS and Stats)    | Cambridge, MA, USA     | Aug 2024 - Dec 2025| GSAS & SEAS, Expected Coursework: Advanced ML, Statistical ML, etc.                                                    |
-| **Massachusetts Institute of Technology (MIT)**        | Cross Registration - NLP & Applied Math   | Cambridge, MA, USA     | -                 | Expected Coursework: NLP, ML, Financial Mathematics                                                                   |
-| **Birla Institute of Technology & Science - BITS Pilani** | Bachelors in Computer Science             | Pilani, India          | Jul 2019 - Jun 2023| 9.72/10 CGPA, Honours/Awards: Distinction, Merit Scholarship, etc.                                                     |
-| **Ryan International School**                          | High School (Physics, Chemistry, Math)    | Navi Mumbai, India     | Jul 2017 - Jul 2019| Overall Percentage: 95%                                                                                                |
-
 
 
 
