@@ -22,7 +22,7 @@ redirect_from:
 - **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
 
 
-Navigation 🧭
+🧭 Navigation 
 ------
 - 🎓 [Education](#education)
 - 💼 [Work Experience](#work-experience)
