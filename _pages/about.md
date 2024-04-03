@@ -21,7 +21,7 @@ redirect_from:
 - **Quant Researcher**: Delivered alphas in quantitative research with high Sharpe ratios.
 - **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
 
-***
+
 Navigation 🧭
 ------
 - 🎓 [Education](#education)
