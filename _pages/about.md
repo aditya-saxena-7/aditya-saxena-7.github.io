@@ -21,7 +21,7 @@ redirect_from:
 - **Quant Researcher**: Delivered alphas in quantitative research with high Sharpe ratios.
 - **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
 
-
+---
 Navigation 🧭
 ======
 - 🎓 [Education](#education)
@@ -32,6 +32,7 @@ Navigation 🧭
 - 👨‍💼 [Leadership](#leadership)
 - 🏅 [Certifications](#certifications)
 
+---
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
