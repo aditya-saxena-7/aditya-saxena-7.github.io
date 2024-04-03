@@ -33,8 +33,34 @@ Navigation 🧭
 - 🏅 [Certifications](#certifications)
 
 
-Getting started
+🎓 Education
 ------
+### Harvard University
+- **School**: Griffin Graduate School of Arts and Sciences (GSAS) & John A. Paulson School of Engineering and Applied Sciences (SEAS)
+- **Degree**: Masters in Data Science (Computer Science and Statistics)
+- **Location**: Cambridge, Massachusetts, USA
+- **Expected Coursework**: Advanced Machine Learning, Time Series & Prediction, Statistical Machine Learning, Advanced Topics in Data Science, Stochastic Methods for Data Analysis, Inference, and Optimization, Systems Development for Computational Science
+- **Timeline**: August 2024 - December 2025
+
+### Massachusetts Institute of Technology (MIT)
+- **Concentration**: Cross Registration - NLP & Applied Mathematics
+- **Location**: Cambridge, Massachusetts, USA
+- **Expected Coursework**: NLP, ML, Financial Mathematics
+
+### Birla Institute of Technology & Science - BITS Pilani
+- **Degree**: Bachelors in Computer Science
+- **Grade**: 9.72/10 CGPA
+- **Location**: Pilani, India
+- **Expected Coursework**: Data Structures & Algorithms, Database Management Systems, Deep Learning, Data Mining, Probability & Statistics, Discrete Mathematics, Mathematics 1, 2, 3
+- **Honours/Awards**: Distinction (Top 4% in graduating class), Academic Excellence Awardee - Merit Scholarship (All 4 years), Awards for Institution's Highest Recognition in Innovation, Research, and Entrepreneurship
+- **Timeline**: July 2019 - June 2023
+
+### High School: Ryan International School
+- **Location**: Navi Mumbai, India
+- **Subjects**: Physics, Chemistry, and Math
+- **Timeline**: July 2017 - July 2019
+- **Grade**: Overall Percentage: 95%
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
