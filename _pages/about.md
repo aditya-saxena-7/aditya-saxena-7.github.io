@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+
 🎓 **Incoming Masters Student at Harvard University | Fall 2024** 
-- Majoring in Computer Science and Statistics (Data Science Track)
+-> Majoring in Computer Science and Statistics (Data Science Track)
 
 🤝 **Cross-Registered at MIT**
-- Focusing on NLP (Natural Language Processing) & Applied Mathematics
+-> Focusing on NLP (Natural Language Processing) & Applied Mathematics
 
 💡 **Research & Specialization** 
-- Specialized in Machine Learning with several notable undergraduate publications.
-- Engaged in industry-oriented Quant Finance projects and competitions.
+-> Specialized in Machine Learning with several notable undergraduate publications.
+-> Engaged in industry-oriented Quant Finance projects and competitions.
 
 📈 **Professional Work Experiences** 
-- Quant Researcher: Delivered alphas in quantitative research with high Sharpe ratios
-- ML & Data Engineer: Applied data engineering & machine learning techniques to large complex datasets
+-> Quant Researcher: Delivered alphas in quantitative research with high Sharpe ratios
+-> ML & Data Engineer: Applied data engineering & machine learning techniques to large complex datasets
 
 A data-driven personal website
 ======
