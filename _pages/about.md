@@ -56,10 +56,23 @@ Navigation 🧭
 - **Timeline**: July 2019 - June 2023
 
 ### High School: Ryan International School
-- **Location**: Navi Mumbai, India
 - **Subjects**: Physics, Chemistry, and Math
+- - **Grade**: Overall Percentage: 95%
+- **Location**: Navi Mumbai, India
 - **Timeline**: July 2017 - July 2019
-- **Grade**: Overall Percentage: 95%
+
+
+## 🎓 Education
+
+| Institution                                            | Degree/Major                              | Location               | Timeline          | Details                                                                                                               |
+|--------------------------------------------------------|-------------------------------------------|------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Harvard University**                                 | Masters in Data Science (CS and Stats)    | Cambridge, MA, USA     | Aug 2024 - Dec 2025| GSAS & SEAS, Expected Coursework: Advanced ML, Statistical ML, etc.                                                    |
+| **Massachusetts Institute of Technology (MIT)**        | Cross Registration - NLP & Applied Math   | Cambridge, MA, USA     | -                 | Expected Coursework: NLP, ML, Financial Mathematics                                                                   |
+| **Birla Institute of Technology & Science - BITS Pilani** | Bachelors in Computer Science             | Pilani, India          | Jul 2019 - Jun 2023| 9.72/10 CGPA, Honours/Awards: Distinction, Merit Scholarship, etc.                                                     |
+| **Ryan International School**                          | High School (Physics, Chemistry, Math)    | Navi Mumbai, India     | Jul 2017 - Jul 2019| Overall Percentage: 95%                                                                                                |
+
+
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
