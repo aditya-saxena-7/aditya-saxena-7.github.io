@@ -59,4 +59,4 @@ Navigation 🧭
 - **Subjects**: Physics, Chemistry, and Math
 - **Overall Percentage:** 95%
 - **Location**: Navi Mumbai, India
-- **Timeline**: July 2017 - July 2019
+- **Timeline**: June 2017 - June 2019
