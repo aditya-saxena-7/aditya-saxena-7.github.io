@@ -10,7 +10,7 @@ redirect_from:
 🎓 **Incoming Masters Student at Harvard University | Fall 2024**
 - Majoring in **Data Science** - Computer Science and Statistics 
 
-🤝 **Cross-Registered at MIT**
+🤝 **Cross-Registering at MIT**
 - Focusing on **NLP** (Natural Language Processing) & **Applied Mathematics**
 
 💡 **Research & Specialization** 
