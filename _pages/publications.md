@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<span style="color: red;">This text will appear red.</span>
+
+
 # Publications and Research Activities 📚
 
 Welcome to my Publications and Research Activities page! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
@@ -51,14 +54,3 @@ Welcome to my Publications and Research Activities page! Here, you'll find a det
 - **Overview:** This research introduces a deep learning model for COVID-19 detection from chest X-ray images, outperforming existing models in accuracy. The findings support the model's potential for commercial-scale implementation as an alternative diagnostic tool.
 
 Thank you for exploring my publications and research contributions. For further inquiries or collaborations, feel free to reach out.
-
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
