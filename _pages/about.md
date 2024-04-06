@@ -25,7 +25,7 @@ redirect_from:
 
 
 ## 🧭 Navigation 
-------
+
 - 🎓 [Education](#education)
 - 💼 [Work Experience](https://aditya-saxena-7.github.io/work/)
 - 📚 [Research Publications](https://aditya-saxena-7.github.io/publications/)
@@ -34,7 +34,6 @@ redirect_from:
 - 👨‍💼 [Leadership](https://aditya-saxena-7.github.io/leadership/)
 - 🏅 [Certifications](https://aditya-saxena-7.github.io/certifications/)
 
-</div>
 
 ## <a name="education"></a> 🎓 Education
 
@@ -50,7 +49,6 @@ redirect_from:
   - Advanced Topics in Data Science
   - Stochastic Methods for Data Analysis, Inference, and Optimization
   - Systems Development for Computational Science
-
 
 ### 🏫 Massachusetts Institute of Technology (MIT)
 - **Concentration**: NLP & Applied Mathematics - Cross Registration with Harvard
@@ -82,7 +80,7 @@ redirect_from:
   - Founder & President, The Wall Street Club
   - President, Centre for Innovation, Incubation & Entrepreneurship (E-Cell)
 
-### 🏫 High School: Ryan International School
+### 🏫 Ryan International (High School)
 - **Subjects**: Physics, Chemistry, and Math
 - **Overall Percentage**: 95%
 - **Location**: Navi Mumbai, India
