@@ -19,7 +19,7 @@ redirect_from:
 
 ### <span style="color: #062144;">📈 Professional Work Experiences</span>
 - **Quant Researcher**: Delivered alphas in quantitative research with high Sharpe ratios.
-- **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
+- **ML & Data Engineer**: Applied machine learning & data engineering techniques to large complex datasets.
 
 
 ## <span style="color: #062144;">🧭 Navigation</span>
