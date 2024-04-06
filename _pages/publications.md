@@ -61,4 +61,4 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 - **Overview:** Due to the high availability of large-scale annotated image datasets, great success has been achieved using convolutional neural networks for image analysis and classification. In this research, we have proposed a deep convolutional neural network trained on five open-access datasets with binary output. The performance of the model is compared with four pre-trained convolutional neural network-based models (COVID-Net, ResNet18, ResNet and MobileNet-V2) and it has been seen that the proposed model provides better accuracy on the validation set as compared to the other four pre-trained models.
 
 <br>
-Thank you for exploring my publications and research contributions. For further inquiries or collaborations, feel free to reach out via email ✉️
+For further inquiries or collaborations, feel free to reach out to me at adityasaxena@g.harvard.edu ✉️
