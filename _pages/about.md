@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<br>
-
 ### 🎓 Incoming Masters Student at Harvard University | Fall 2024
 - Majoring in **Data Science** - Computer Science and Statistics Department 
 
