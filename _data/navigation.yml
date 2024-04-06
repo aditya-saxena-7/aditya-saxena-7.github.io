@@ -4,10 +4,10 @@ main:
     url: /work/   
 
   - title: "Research"
-    url: /publications/ 
+    url: /research/ 
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Resume"
     url: /resume/
