@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications and Research Activities 📚"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
