@@ -22,7 +22,7 @@ redirect_from:
 - **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
 
 
-## <span style="color: #004AAD;">🧭 Navigation</span>
+## <span style="color: #062144;">🧭 Navigation</span>
 
 - 🎓 [Education](#education)
 - 💼 [Work Experience](https://aditya-saxena-7.github.io/work/)
