@@ -19,7 +19,7 @@ redirect_from:
 - Specialized in **Machine Learning** with several notable undergraduate publications.
 - Engaged in multiple **industry-oriented** Quant Finance and ML projects and competitions.
 
-### 📈 **Professional Work Experiences
+### 📈 Professional Work Experiences
 - **Quant Researcher**: Delivered alphas in quantitative research with high Sharpe ratios.
 - **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
 
