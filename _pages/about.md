@@ -7,29 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-    <b>Incoming Masters Student at Harvard University | Fall 2024</b><br>
-    Majoring in <i>Data Science</i> - Computer Science and Statistics<br>
-    <b>Cross-Registering at MIT</b><br>
-    Focusing on <i>NLP (Natural Language Processing) & Applied Mathematics</i>
-</p>
+<br>
 
-<p align="center">
-    Specialized in <i>Machine Learning</i> with several notable undergraduate publications.<br>
-    Engaged in multiple <i>industry-oriented</i> Quant Finance and ML projects and competitions.<br>
-    Delivered alphas in quantitative research with high Sharpe ratios.<br>
-    Applied data engineering & machine learning techniques to large complex datasets.
-</p>
+### 🎓 Incoming Masters Student at Harvard University | Fall 2024
+- Majoring in **Data Science** - Computer Science and Statistics Department 
 
-<div align="center">
+### 🤝 Cross-Registering at MIT
+- Focusing on **NLP** & **Applied Mathematics**
 
-[Education](#education) •
-[Work Experience](https://aditya-saxena-7.github.io/work/) •
-[Research Publications](https://aditya-saxena-7.github.io/publications/) •
-[Projects](https://aditya-saxena-7.github.io/portfolio/) •
-[Resume](https://aditya-saxena-7.github.io/resume/) •
-[Leadership](https://aditya-saxena-7.github.io/leadership/) •
-[Certifications](https://aditya-saxena-7.github.io/certifications/)
+### 💡 Research & Specialization
+- Specialized in **Machine Learning** with several notable undergraduate publications.
+- Engaged in multiple **industry-oriented** Quant Finance and ML projects and competitions.
+
+### 📈 **Professional Work Experiences
+- **Quant Researcher**: Delivered alphas in quantitative research with high Sharpe ratios.
+- **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
+
+
+## 🧭 Navigation 
+------
+- 🎓 [Education](#education)
+- 💼 [Work Experience](https://aditya-saxena-7.github.io/work/)
+- 📚 [Research Publications](https://aditya-saxena-7.github.io/publications/)
+- 🔨 [Projects](https://aditya-saxena-7.github.io/portfolio/)
+- 📄 [Resume](https://aditya-saxena-7.github.io/resume/)
+- 👨‍💼 [Leadership](https://aditya-saxena-7.github.io/leadership/)
+- 🏅 [Certifications](https://aditya-saxena-7.github.io/certifications/)
 
 </div>
 
@@ -39,6 +42,7 @@ redirect_from:
 - **School**: Griffin Graduate School of Arts and Sciences (GSAS) & John A. Paulson School of Engineering and Applied Sciences (SEAS)
 - **Degree**: Masters in Data Science (Computer Science and Statistics)
 - **Location**: Cambridge, Massachusetts, USA
+- **Timeline**: August 2024 - December 2025 (Expected)
 - **Expected Coursework**:
   - Advanced Machine Learning
   - Time Series & Prediction
@@ -46,31 +50,37 @@ redirect_from:
   - Advanced Topics in Data Science
   - Stochastic Methods for Data Analysis, Inference, and Optimization
   - Systems Development for Computational Science
-- **Timeline**: August 2024 - December 2025 (Expected)
+
 
 ### 🏫 Massachusetts Institute of Technology (MIT)
 - **Concentration**: NLP & Applied Mathematics - Cross Registration with Harvard
 - **Location**: Cambridge, Massachusetts, USA
-- **Expected Coursework**: NLP, ML, Financial Mathematics
+- **Expected Coursework**: 
+  - Natural Language Processing
+  - Financial Mathematics
+  - Statistics
 
 ### 🏫 Birla Institute of Technology & Science - BITS Pilani
 - **Degree**: Bachelors in Computer Science
 - **Cumulative GPA**: 9.72/10
 - **Location**: Pilani, India
+- **Timeline**: July 2019 - June 2023
 - **Coursework**:
-  - Data Structures & Algorithms
-  - Database Management Systems
-  - Deep Learning
-  - Data Mining
-  - Probability & Statistics
-  - Discrete Mathematics
-  - Mathematics 1, 2, 3
+  - Data Structures & Algorithms (A/A)
+  - Database Management Systems (A/A)
+  - Deep Learning (A/A)
+  - Data Mining (A/A)
+  - Probability & Statistics (A/A)
+  - Discrete Mathematics (A/A)
+  - Mathematics 1, 2, 3 (A/A)
 - **Honours/Awards**:
   - Distinction (Top 4% in graduating class)
   - Academic Excellence Awardee - Merit Scholarship (All 4 years)
   - Mantra Innovator of the Year Award; Institute’s highest recognition in Research & Innovation (1/1200)
   - Mantra Entrepreneur of the Year Award; Institute’s highest recognition in Entrepreneurship (1/1200)
-- **Timeline**: July 2019 - June 2023
+  - President, Association of Computing Machinery – Student Chapter
+  - Founder & President, The Wall Street Club
+  - President, Centre for Innovation, Incubation & Entrepreneurship (E-Cell)
 
 ### 🏫 High School: Ryan International School
 - **Subjects**: Physics, Chemistry, and Math
