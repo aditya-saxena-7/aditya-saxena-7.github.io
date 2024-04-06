@@ -25,13 +25,14 @@ redirect_from:
 🧭 Navigation 
 ------
 - 🎓 [Education](#education)
-- 💼 [Work Experience](#work-experience)
-- 📚 [Research Publications](#research-publications)
-- 🔨 [Projects](#projects)
-- 📄 [Resume](#resume)
-- 👨‍💼 [Leadership](#leadership)
-- 🏅 [Certifications](#certifications)
+- 💼 [Work Experience](https://aditya-saxena-7.github.io/work/)
+- 📚 [Research Publications](https://aditya-saxena-7.github.io/publications/)
+- 🔨 [Projects](https://aditya-saxena-7.github.io/portfolio/)
+- 📄 [Resume](https://aditya-saxena-7.github.io/resume/)
+- 👨‍💼 [Leadership](https://aditya-saxena-7.github.io/leadership/)
+- 🏅 [Certifications](https://aditya-saxena-7.github.io/certifications/)
 
+<a name="education"></a>
 
 🎓 Education
 ------
