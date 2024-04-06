@@ -7,7 +7,7 @@ author_profile: true
 
 Welcome to my Publications and Research Activities page! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
 
-## <span style="color: #062C60;">Research Activities</span>
+## <span style="color: #062C60;">Research Activities 🛠️</span>
 
 ### 1. Advanced Context-sensitive Embeddings for NLP
 - **Lab:** Computational Linguistics and Social Networks Lab, BITS Pilani 
@@ -25,7 +25,7 @@ Welcome to my Publications and Research Activities page! Here, you'll find a det
   - Employed Optical Character Recognition to enhance data extraction accuracy in noisy environments, achieving a 15% accuracy improvement.
   - Applied advanced feature extraction methods to reduce latency by 20% in real-time database systems.
 
-## <span style="color: #062C60;">Publications</span>
+## <span style="color: #062C60;">Publications 📚</span>
 
 ### 1. Deep Learning-Based Smart Parking Management System and Business Model
 - **Achievement:** Published in Springer Conference - CVIP 2020, Singapore
@@ -52,8 +52,8 @@ Welcome to my Publications and Research Activities page! Here, you'll find a det
 - **Advisor:** Dr. Tamizharasan (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
 - **Publication:** [arXiv](https://arxiv.org/abs/2201.09952)
 - **Credentials:** [Need to Link](http://www.adityacertificate.com)
-- **Overview:** Due to the high availability of large-scale annotated image datasets, great success has been achieved using convolutional neural network for image analysis and classification. In this research, we have proposed a deep convolutional neural network trained on five open access datasets with binary output. The performance of the model is compared with four pre-trained convolutional neural network-based models (COVID-Net, ResNet18, ResNet and MobileNet-V2) and it has been seen that the proposed model provides better accuracy on the validation set as compared to the other four pre-trained models.
+- **Overview:** Due to the high availability of large-scale annotated image datasets, great success has been achieved using convolutional neural networks for image analysis and classification. In this research, we have proposed a deep convolutional neural network trained on five open-access datasets with binary output. The performance of the model is compared with four pre-trained convolutional neural network-based models (COVID-Net, ResNet18, ResNet and MobileNet-V2) and it has been seen that the proposed model provides better accuracy on the validation set as compared to the other four pre-trained models.
 
 <br>
 
-Thank you for exploring my publications and research contributions. For further inquiries or collaborations, feel free to reach out via email.
+Thank you for exploring my publications and research contributions. For further inquiries or collaborations, feel free to reach out via email ✉️
