@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Welcome to my Publications and Research Activities page! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
-
+Welcome to my [Research Activities](#researchactivities) and [Publications](#publications)! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
+<a name="researchactivities"></a>
 ## <span style="color: #062C60;">Research Activities 🛠️</span>
 ---
 ### <span style="color: #062C60;">1. Advanced Context-sensitive Embeddings for NLP</span>
@@ -26,7 +26,7 @@ Welcome to my Publications and Research Activities page! Here, you'll find a det
   - Architected a distributed computing system for high-volume data processing, employing neural network parallelization to reduce model training time
   - Employed Optical Character Recognition to enhance data extraction accuracy in noisy environments, achieving a 15% accuracy improvement.
   - Applied advanced feature extraction methods to reduce latency by 20% in real-time database systems.
-
+<a name="publications"></a>
 ## <span style="color: #062C60;">Publications 📚</span>
 ---
 ### <span style="color: #062C60;">1. Deep Learning-Based Smart Parking Management System and Business Model</span>
