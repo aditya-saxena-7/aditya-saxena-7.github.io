@@ -1,32 +1,30 @@
 ---
 layout: archive
-title: "Research"
+title: "Publications and Research Activities 📚"
 permalink: /publications/
 author_profile: true
 ---
 
 <span style="color: red;">This text will appear red.</span>
 
-
-# Publications and Research Activities 📚
-
 Welcome to my Publications and Research Activities page! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
 
 ## Research Activities
 
 ### 1. Advanced Context-sensitive Embeddings for NLP
-- **Institution:** Computational Linguistics and Social Networks Lab (BITS BIRAC BIONEST), BITS Pilani, Goa Campus, India
-- **Duration:** April 2023 - June 2023
+- **Lab:** Computational Linguistics and Social Networks Lab, BITS Pilani 
+- **Duration:** September 2022 - December 2022
 - **Contributions:**
+  - Spearheaded NLP research, enhancing data resource interpretation, and improving and boosting data sentiment analysis accuracy by 11%.
   - Developed Vector Embedding APK, enabling refined context-sensitive embeddings, enhancing interpretation of multi-dimensional financial data.
   - Improved Skip-gram model through non-parametric estimation.
 
 ### 2. Deep Learning-Based Smart Parking Management System
-- **Institution:** Advance Software Lab, College of Engineering, Pune, India
+- **Lab:** Advance Software Lab, College of Engineering, Pune
 - **Duration:** December 2020 - February 2021
 - **Contributions:**
   - Employed Optical Character Recognition to enhance data extraction accuracy in noisy environments, achieving a 15% accuracy improvement.
-  - Applied advanced feature extraction methods to reduce latency by 20% in real-time parking availability detection systems.
+  - Applied advanced feature extraction methods to reduce latency by 20% in real-time database systems.
 
 ## Publications
 
