@@ -41,20 +41,20 @@ redirect_from:
 - **Location**: Cambridge, Massachusetts, USA
 - **Timeline**: August 2024 - December 2025 (Expected)
 - **Expected Coursework**:
-  - Advanced Machine Learning
-  - Time Series & Prediction
   - Statistical Machine Learning
+  - Time Series & Prediction
+  - Advanced Statistics
+  - Advanced Machine Learning
   - Advanced Topics in Data Science
   - Stochastic Methods for Data Analysis, Inference, and Optimization
-  - Systems Development for Computational Science
 
 ### 🏫 Massachusetts Institute of Technology (MIT)
 - **Concentration**: NLP & Applied Mathematics - Cross Registration with Harvard
 - **Location**: Cambridge, Massachusetts, USA
 - **Expected Coursework**: 
   - Natural Language Processing
-  - Financial Mathematics
-  - Statistics
+  - Advanced Data Analytics & Machine Learning in Finance
+  - Statistical Learning & Data Mining
 
 ### 🏫 Birla Institute of Technology & Science - BITS Pilani
 - **Degree**: Bachelors in Computer Science
