@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+</br>
 🎓 **Incoming Masters Student at Harvard University | Fall 2024**
 - Majoring in **Data Science** - Computer Science and Statistics 
 
@@ -41,6 +42,15 @@ redirect_from:
 - **Degree**: Masters in Data Science (Computer Science and Statistics)
 - **Location**: Cambridge, Massachusetts, USA
 - **Expected Coursework**: Advanced Machine Learning, Time Series & Prediction, Statistical Machine Learning, Advanced Topics in Data Science, Stochastic Methods for Data Analysis, Inference, and Optimization, Systems Development for Computational Science
+<details>
+<summary>Expected Coursework</summary>
+- Advanced Machine Learning
+- Time Series & Prediction
+- Statistical Machine Learning
+- Advanced Topics in Data Science
+- Stochastic Methods for Data Analysis, Inference, and Optimization
+- Systems Development for Computational Science
+</details>
 - **Timeline**: August 2024 - December 2025 (Expected)
 
 ### 🏫 Massachusetts Institute of Technology (MIT)
