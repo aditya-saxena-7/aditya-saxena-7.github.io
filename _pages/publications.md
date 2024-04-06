@@ -8,7 +8,7 @@ author_profile: true
 Welcome to my Publications and Research Activities page! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
 
 ## <span style="color: #062C60;">Research Activities 🛠️</span>
-
+---
 ### 1. Advanced Context-sensitive Embeddings for NLP
 - **Lab:** Computational Linguistics and Social Networks Lab, BITS Pilani 
 - **Duration:** September 2022 - December 2022
