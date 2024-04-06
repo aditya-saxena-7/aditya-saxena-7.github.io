@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-### 🎓 Incoming Masters Student at Harvard University | Fall 2024
+### <span style="color: #062144;">🎓 Incoming Masters Student at Harvard University | Fall 2024</span>
 - Majoring in **Data Science** - Computer Science and Statistics Department 
 
-### 🤝 Cross-Registering at MIT
+### <span style="color: #062144;">🤝 Cross-Registering at MIT</span>
 - Focusing on **NLP** & **Applied Mathematics**
 
-### 💡 Research & Specialization
+### <span style="color: #062144;">💡 Research & Specialization</span>
 - Specialized in **Machine Learning** with several notable undergraduate publications.
 - Engaged in multiple **industry-oriented** Quant Finance and ML projects and competitions.
 
-### 📈 Professional Work Experiences
+### <span style="color: #062144;">📈 Professional Work Experiences</span>
 - **Quant Researcher**: Delivered alphas in quantitative research with high Sharpe ratios.
 - **ML & Data Engineer**: Applied data engineering & machine learning techniques to large complex datasets.
 
@@ -33,9 +33,9 @@ redirect_from:
 - 🏅 [Certifications](https://aditya-saxena-7.github.io/certifications/)
 
 
-## <a name="education"></a> 🎓 Education
+## <a name="education"></a><span style="color: #062144;">🎓 Education</span>
 
-### 🏫 Harvard University
+### <span style="color: #062144;">🏫 Harvard University</span>
 - **School**: Griffin Graduate School of Arts and Sciences (GSAS) & John A. Paulson School of Engineering and Applied Sciences (SEAS)
 - **Degree**: Masters in Data Science (Computer Science and Statistics)
 - **Location**: Cambridge, Massachusetts, USA
@@ -48,7 +48,7 @@ redirect_from:
   - Advanced Topics in Data Science
   - Stochastic Methods for Data Analysis, Inference, and Optimization
 
-### 🏫 Massachusetts Institute of Technology (MIT)
+### <span style="color: #062144;">🏫 Massachusetts Institute of Technology (MIT)</span>
 - **Concentration**: NLP & Applied Mathematics - Cross Registration with Harvard
 - **Location**: Cambridge, Massachusetts, USA
 - **Expected Coursework**: 
@@ -56,7 +56,7 @@ redirect_from:
   - Advanced Data Analytics & Machine Learning in Finance
   - Statistical Learning & Data Mining
 
-### 🏫 Birla Institute of Technology & Science - BITS Pilani
+### <span style="color: #062144;">🏫 Birla Institute of Technology & Science - BITS Pilani</span>
 - **Degree**: Bachelors in Computer Science
 - **Cumulative GPA**: 9.72/10
 - **Location**: Pilani, India
@@ -78,7 +78,7 @@ redirect_from:
   - Founder & President, The Wall Street Club
   - President, Centre for Innovation, Incubation & Entrepreneurship (E-Cell)
 
-### 🏫 Ryan International (High School)
+### <span style="color: #062144;">🏫 Ryan International (High School)</span>
 - **Subjects**: Physics, Chemistry, and Math
 - **Overall Percentage**: 95%
 - **Location**: Navi Mumbai, India
