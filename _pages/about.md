@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-</br>
+<br>
+
 🎓 **Incoming Masters Student at Harvard University | Fall 2024**
 - Majoring in **Data Science** - Computer Science and Statistics 
 
@@ -44,11 +45,11 @@ redirect_from:
 - **Expected Coursework**: Advanced Machine Learning, Time Series & Prediction, Statistical Machine Learning, Advanced Topics in Data Science, Stochastic Methods for Data Analysis, Inference, and Optimization, Systems Development for Computational Science
 <details>
 <summary>Expected Coursework</summary>
-- Advanced Machine Learning
-- Time Series & Prediction
-- Statistical Machine Learning
-- Advanced Topics in Data Science
-- Stochastic Methods for Data Analysis, Inference, and Optimization
+- Advanced Machine Learning<br>
+- Time Series & Prediction<br>
+- Statistical Machine Learning<br>
+- Advanced Topics in Data Science<br>
+- Stochastic Methods for Data Analysis, Inference, and Optimization<br>
 - Systems Development for Computational Science
 </details>
 - **Timeline**: August 2024 - December 2025 (Expected)
