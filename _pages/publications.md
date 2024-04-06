@@ -10,7 +10,8 @@ Welcome to my Publications and Research Activities page! Here, you'll find a det
 ## <span style="color: #062C60;">Research Activities 🛠️</span>
 ---
 ### <span style="color: #062C60;">1. Advanced Context-sensitive Embeddings for NLP</span>
-- **Lab:** Computational Linguistics and Social Networks Lab, BITS Pilani 
+- **Lab:** Computational Linguistics and Social Networks Lab, BITS Pilani
+- **Faculty:** Dr. Tamizharasan (Professor, BITS Pilani; Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
 - **Duration:** September 2022 - December 2022
 - **Contributions:**
   - Spearheaded NLP research, enhancing data resource interpretation, and improving and boosting data sentiment analysis accuracy by 11%.
@@ -19,6 +20,7 @@ Welcome to my Publications and Research Activities page! Here, you'll find a det
 
 ### <span style="color: #062C60;">2. Deep Learning-Based Smart Parking Management System</span>
 - **Lab:** Advance Software Lab, College of Engineering, Pune
+- **Faculty:** Dr. Amit D. Joshi (Professor, College of Engineering, Pune; Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
 - **Duration:** December 2020 - February 2021
 - **Contributions:**
   - Architected a distributed computing system for high-volume data processing, employing neural network parallelization to reduce model training time
