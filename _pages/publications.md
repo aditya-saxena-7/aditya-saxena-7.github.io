@@ -57,7 +57,7 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 - **Achievement:** 2nd Place in Undergraduate Research Competition, 2022 - Peer Reviewed By Abu Dhabi University.
 - **Advisor:** Dr. Tamizharasan (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
 - **Publication:** [arXiv](https://arxiv.org/abs/2201.09952)
-- **Credentials:** [Need to Link](https://aditya-saxena-7.github.io/files/Research/URC_2022.pdf)
+- **Credentials:** [Click Here](https://aditya-saxena-7.github.io/files/Research/URC_2022.pdf)
 - **Overview:** Due to the high availability of large-scale annotated image datasets, great success has been achieved using convolutional neural networks for image analysis and classification. In this research, we have proposed a deep convolutional neural network trained on five open-access datasets with binary output. The performance of the model is compared with four pre-trained convolutional neural network-based models (COVID-Net, ResNet18, ResNet and MobileNet-V2) and it has been seen that the proposed model provides better accuracy on the validation set as compared to the other four pre-trained models.
 
 <br>
