@@ -43,21 +43,21 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 - **Achievement:** 2nd Place in Undergraduate Research Competition, 2021 - Peer Reviewed By Abu Dhabi University.
 - **Advisor:** Dr. Parizad Phiroze Dungore (Dubai Business School, University of Dubai)
 - **Publication:** [Click Here](https://www.researchgate.net/publication/353738030_Credit_Risk_Assessment_Model_for_UAE%27s_Commercial_Banks_A_Machine_Learning_Approach)
-- **Credentials:** [Need to Link](http://www.adityacertificate.com)
+- **Credentials:** [Click Here](https://aditya-saxena-7.github.io/files/Research/URC_2021.pdf)
 - **Overview:** The purpose of this paper is to construct and validate a credit risk assessment model using Linear Discriminant Analysis as a dimensionality reduction technique to discriminate good creditors from bad ones and identify the best classifier for credit assessment of commercial banks based on real-world data. This work has been backtested on commercial UAE bank's data.
 
 ### <span style="color: #062C60;">3. Lithium-Ion Battery Life Prediction Based on Initial Stage-Cycles Using Machine Learning</span>
 - **Achievement:** Granted Intellectual Property Rights by The Federal Competitiveness and Statistics Authority and Ministry of Economy UAE, 2020
 - **Advisor:** Dr. Vilas Haridas Gaidhane (PhD - Delhi University)
 - **Publication:** [ResearchGate](https://www.researchgate.net/publication/353738042_Lithium-Ion_Battery_Life_Prediction_Based_on_Initial_Stage-Cycles_Using_Machine_Learning)
-- **Credentials:** [Need to Link](http://www.adityacertificate.com)
+- **Credentials:** [Click Here](https://aditya-saxena-7.github.io/files/Research/Lithium-Ion%20Battery%20Life%20PredictionBased%20on%20Initial%20Stage-Cycles%20Using%20Machine%20Learning.pdf)
 - **Overview:** The paper explores machine learning models for predicting the Remaining Useful Life (RUL) of lithium-ion batteries within the first 100 cycles. It evaluates the performance of these models, identifying key factors influencing RUL. Experimentation on real battery data highlights the superiority of the proposed models over existing methods, with improvements in prediction accuracy.
 
 ### <span style="color: #062C60;">4. Optimization Methods for Scalable CNN-based Deep Learning Models</span>
 - **Achievement:** 2nd Place in Undergraduate Research Competition, 2022 - Peer Reviewed By Abu Dhabi University.
 - **Advisor:** Dr. Tamizharasan (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
 - **Publication:** [arXiv](https://arxiv.org/abs/2201.09952)
-- **Credentials:** [Need to Link](http://www.adityacertificate.com)
+- **Credentials:** [Need to Link](https://aditya-saxena-7.github.io/files/Research/URC_2022.pdf)
 - **Overview:** Due to the high availability of large-scale annotated image datasets, great success has been achieved using convolutional neural networks for image analysis and classification. In this research, we have proposed a deep convolutional neural network trained on five open-access datasets with binary output. The performance of the model is compared with four pre-trained convolutional neural network-based models (COVID-Net, ResNet18, ResNet and MobileNet-V2) and it has been seen that the proposed model provides better accuracy on the validation set as compared to the other four pre-trained models.
 
 <br>
