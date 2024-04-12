@@ -10,7 +10,8 @@ main:
     url: /projects/
 
   - title: "Resume"
-    url: /resume/
+    url: /
+ #   url: /resume/
 
   - title: "Leadership"
     url: /leadership/    
