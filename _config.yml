@@ -21,7 +21,7 @@ repository               : "aditya-saxena-7/aditya-saxena-7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/aditya-saxena-7/aditya-saxena-7.github.io/blob/master/files/ProfilePicture_AdityaSaxena.jpg"
   name             : "Aditya Saxena"
   pronouns         : # example: "she/her"  
   bio              : "Harvard | MIT | BITS Pilani"
