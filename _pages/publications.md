@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications and Research Activities 📚"
+title: "Research Experience 📚"
 permalink: /research/
 author_profile: true
 ---
 
-Welcome to my [Research Activities](#researchactivities) and [Publications](#publications)! Here, you'll find a detailed list of my academic and professional contributions to the field. My work spans various aspects of computational linguistics, deep learning applications, and quantitative machine learning models. 
+Here, you'll find a detailed list of my academic and professional contributions to the field of quantitative finance & machine learning. 
 
 <a name="researchactivities"></a>
 
