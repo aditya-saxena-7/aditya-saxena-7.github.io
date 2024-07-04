@@ -10,7 +10,7 @@ main:
     url: /projects/
 
   - title: "Resume"
-    url: /files/resume/AdityaSaxena_Resume.pdf
+    url: "https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf"
  #   url: /resume/
 
   - title: "Leadership"
