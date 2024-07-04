@@ -68,7 +68,7 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 - Developed a Gradient Boosting Trees model to predict lithium-ion battery life using initial 50-cycle charge/discharge data.
 - Applied Kernel PCA to project data into higher-dimensional space, enhancing model robustness and prediction accuracy.
 
-### <span style="color: #062C60;">5. Real-Time Drowsiness Detection Framework Using Computer Vision to Prevent Car & Road Accidents</span>
+### <span style="color: #062C60;">6. Real-Time Drowsiness Detection Framework Using Computer Vision to Prevent Car & Road Accidents</span>
 - **Achievement:** Granted Intellectual Property Right
 - **Advisor:** [Dr. Raja Muthalagu](https://universe.bits-pilani.ac.in/dubai/raja/profile)
 - **Publication:** [arXiv](https://arxiv.org/abs/2201.09952)
