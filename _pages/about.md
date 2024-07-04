@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-### <span style="color: #062144;">🎓 Incoming Masters Student at Harvard University | Fall 2024</span>
-- Majoring in **Data Science** - Computer Science and Statistics Department 
+### <span style="color: #062144;">🎓 Masters Student at Harvard University | Graduating on December 2025</span>
+- Majoring in **Data Science** - Under Computer Science and Statistics Department 
 
 ### <span style="color: #062144;">🤝 Cross-Registering at MIT</span>
-- Focusing on **NLP** & **Applied Mathematics**
+- Focusing on **Applied Mathematics**
 
 ### <span style="color: #062144;">💡 Research & Specialization</span>
 - Specialized in **Machine Learning** with several notable undergraduate publications.
@@ -49,7 +49,7 @@ redirect_from:
   - Stochastic Methods for Data Analysis, Inference, and Optimization
 
 ### <span style="color: #062144;">🏫 Massachusetts Institute of Technology (MIT)</span>
-- **Concentration**: NLP & Applied Mathematics - Cross Registration with Harvard
+- **Concentration**: Applied Mathematics - Cross Registration with Harvard
 - **Location**: Cambridge, Massachusetts, USA
 - **Expected Coursework**: 
   - Natural Language Processing
