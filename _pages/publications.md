@@ -7,28 +7,6 @@ author_profile: true
 
 Here, you'll find a detailed list of my academic and professional contributions to the field of quantitative finance & machine learning. 
 
-<a name="researchactivities"></a>
-
-## <span style="color: #062C60;">Research Activities 🛠️</span>
----
-### <span style="color: #062C60;">1. Advanced Context-sensitive Embeddings for NLP</span>
-- **Lab:** Computational Linguistics and Social Networks Lab, BITS Pilani
-- **Faculty:** Dr. Tamizharasan (Professor, BITS Pilani; Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
-- **Duration:** September 2022 - December 2022
-- **Contributions:**
-  - Spearheaded NLP research, enhancing data resource interpretation, and improving and boosting data sentiment analysis accuracy by 11%.
-  - Developed Vector Embedding APK, enabling refined context-sensitive embeddings, enhancing interpretation of multi-dimensional financial data.
-  - Improved Skip-gram model through non-parametric estimation.
-
-### <span style="color: #062C60;">2. Deep Learning-Based Smart Parking Management System</span>
-- **Lab:** Advance Software Lab, College of Engineering, Pune
-- **Faculty:** Dr. Amit D. Joshi (Professor, College of Engineering, Pune; Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
-- **Duration:** December 2020 - February 2021
-- **Contributions:**
-  - Architected a distributed computing system for high-volume data processing, employing neural network parallelization to reduce model training time
-  - Employed Optical Character Recognition to enhance data extraction accuracy in noisy environments, achieving a 15% accuracy improvement.
-  - Applied advanced feature extraction methods to reduce latency by 20% in real-time database systems.
-    
 <a name="publications"></a>
 
 ## <span style="color: #062C60;">Publications 📚</span>
