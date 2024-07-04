@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Here, you'll find a detailed list of my academic and professional contributions to the field of quantitative finance & machine learning. 
+Here, you'll find a detailed list of my academic and professional contributions to the field of quantitative finance & machine learning and more. 
 
 <a name="publications"></a>
 
