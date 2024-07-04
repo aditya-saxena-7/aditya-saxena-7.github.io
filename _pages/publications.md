@@ -33,32 +33,47 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 
 ## <span style="color: #062C60;">Publications 📚</span>
 ---
-### <span style="color: #062C60;">1. Deep Learning-Based Smart Parking Management System and Business Model</span>
+### <span style="color: #062C60;">1. Cost Efficient Stock Using Forecasting with Enhanced LightGBM and Optuna</span>
+- **Achievement:** IEEE International Conference MoSICom
+- **Advisor:** [Dr. Tamizharasan PS](https://universe.bits-pilani.ac.in/dubai/tamizharasan/Profile) (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
+- **Publication:** [TBA](https://link.springer.com/chapter/10.1007/978-981-16-1103-2_11)
+- Optimized LightGBM model using Optuna, achieving a 15.2% annualized return and a 3.24 Sharpe ratio, significantly outperforming benchmark returns.
+- Developed cost-awareness strategy to reduce false-positive errors, enhancing prediction reliability and lowering investment costs.
+
+### <span style="color: #062C60;">2. Dynamic Beta Variability in Foreign Exchange Returns Using Instrumented PCA</span>
+- **Achievement:** 2nd Place, National Undergraduate Research Competition, 2022 - Peer Reviewed By Abu Dhabi University.
+- **Advisor:** [Dr. Tamizharasan PS](https://universe.bits-pilani.ac.in/dubai/tamizharasan/Profile) (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
+- **Publication:** [TBA](https://link.springer.com/chapter/10.1007/978-981-16-1103-2_11)
+- Applied IPCA to build a flexible factor model, reducing FX data dimensionality and accommodating time-varying betas for superior out-of-sample predictability.
+- Demonstrated economic significance by showing IPCA-based trading strategies outperformed PCA by 8%, especially for the Swiss Franc and Australian Dollar.
+
+### <span style="color: #062C60;">3. Deep Learning-Based Smart Parking Management System and Business Model</span>
 - **Achievement:** Published in Springer Conference - CVIP 2020, Singapore
-- **Advisor:** Dr. Tamizharasan (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
+- **Advisor:** [Dr. Tamizharasan PS](https://universe.bits-pilani.ac.in/dubai/tamizharasan/Profile) (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
 - **Publication:** [Click Here](https://link.springer.com/chapter/10.1007/978-981-16-1103-2_11)
-- **Overview:** The paper proposes a deep learning-based algorithm for managing database optimization patterns, employing predictive analytics to dynamically assess and allocate resources. It emphasizes the use of sophisticated neural network models to accurately predict occupancy patterns, without delving into specific accuracy metrics or numerical performance indicators within the abstract.
+- Architected the workflow of ensemble techniques for detecting and classifying parking occupancy with 95% precision.
+- Used TensorFlow for training and evaluation, improving F1 score, recall, and precision metrics.
 
-### <span style="color: #062C60;">2. Credit Risk Assessment Model for UAE’s Commercial Banks: A Machine Learning Approach</span>
+### <span style="color: #062C60;">4. Credit Risk Assessment Model for UAE’s Commercial Banks: A Machine Learning Approach</span>
 - **Achievement:** 2nd Place in Undergraduate Research Competition, 2021 - Peer Reviewed By Abu Dhabi University.
-- **Advisor:** Dr. Parizad Phiroze Dungore (Dubai Business School, University of Dubai)
-- **Publication:** [Click Here](https://www.researchgate.net/publication/353738030_Credit_Risk_Assessment_Model_for_UAE%27s_Commercial_Banks_A_Machine_Learning_Approach)
-- **Credentials:** [Click Here](https://aditya-saxena-7.github.io/files/Research/URC_2021.pdf)
-- **Overview:** The purpose of this paper is to construct and validate a credit risk assessment model using Linear Discriminant Analysis as a dimensionality reduction technique to discriminate good creditors from bad ones and identify the best classifier for credit assessment of commercial banks based on real-world data. This work has been backtested on commercial UAE bank's data.
+- **Advisor:** [Dr. Parizad Phiroze Dungore](https://ud.ac.ae/ud_members/dr-parizad-dungore/) (Dubai Business School, University of Dubai)
+- **Publication:** [tba](https://www.researchgate.net/publication/353738030_Credit_Risk_Assessment_Model_for_UAE%27s_Commercial_Banks_A_Machine_Learning_Approach)
+- Developed a ML based credit risk model using Linear Discriminant Analysis and Adaboost, achieving 95.2% accuracy.
+- Implemented and tested models like Logistic Regression and Decision Trees on 7M+ records, identifying key risk factors through feature selection.
 
-### <span style="color: #062C60;">3. Lithium-Ion Battery Life Prediction Based on Initial Stage-Cycles Using Machine Learning</span>
-- **Achievement:** Granted Intellectual Property Rights by The Federal Competitiveness and Statistics Authority and Ministry of Economy UAE, 2020
-- **Advisor:** Dr. Vilas Haridas Gaidhane (PhD - Delhi University)
-- **Publication:** [ResearchGate](https://www.researchgate.net/publication/353738042_Lithium-Ion_Battery_Life_Prediction_Based_on_Initial_Stage-Cycles_Using_Machine_Learning)
-- **Credentials:** [Click Here](https://aditya-saxena-7.github.io/files/Research/Lithium-Ion%20Battery%20Life%20PredictionBased%20on%20Initial%20Stage-Cycles%20Using%20Machine%20Learning.pdf)
-- **Overview:** The paper explores machine learning models for predicting the Remaining Useful Life (RUL) of lithium-ion batteries within the first 100 cycles. It evaluates the performance of these models, identifying key factors influencing RUL. Experimentation on real battery data highlights the superiority of the proposed models over existing methods, with improvements in prediction accuracy.
+### <span style="color: #062C60;">5. Lithium-Ion Battery Life Prediction Based on Initial Stage-Cycles Using Machine Learning</span>
+- **Achievement:** Granted Intellectual Property Rights
+- **Advisor:** [Dr. Vilas Haridas Gaidhane](https://universe.bits-pilani.ac.in/dubai/vhgaidhane/Profile) (PhD - Delhi University)
+- **Publication:** [tba](https://www.researchgate.net/publication/353738042_Lithium-Ion_Battery_Life_Prediction_Based_on_Initial_Stage-Cycles_Using_Machine_Learning)
+- Developed a Gradient Boosting Trees model to predict lithium-ion battery life using initial 50-cycle charge/discharge data.
+- Applied Kernel PCA to project data into higher-dimensional space, enhancing model robustness and prediction accuracy.
 
-### <span style="color: #062C60;">4. Optimization Methods for Scalable CNN-based Deep Learning Models</span>
-- **Achievement:** 2nd Place in Undergraduate Research Competition, 2022 - Peer Reviewed By Abu Dhabi University.
-- **Advisor:** Dr. Tamizharasan (Ph.D. – CSE, National Institute of Technology, Tiruchirappalli)
+### <span style="color: #062C60;">5. Real-Time Drowsiness Detection Framework Using Computer Vision to Prevent Car & Road Accidents</span>
+- **Achievement:** Granted Intellectual Property Right
+- **Advisor:** [Dr. Raja Muthalagu](https://universe.bits-pilani.ac.in/dubai/raja/profile)
 - **Publication:** [arXiv](https://arxiv.org/abs/2201.09952)
-- **Credentials:** [Click Here](https://aditya-saxena-7.github.io/files/Research/URC_2022.pdf)
-- **Overview:** Due to the high availability of large-scale annotated image datasets, great success has been achieved using convolutional neural networks for image analysis and classification. In this research, we have proposed a deep convolutional neural network trained on five open-access datasets with binary output. The performance of the model is compared with four pre-trained convolutional neural network-based models (COVID-Net, ResNet18, ResNet and MobileNet-V2) and it has been seen that the proposed model provides better accuracy on the validation set as compared to the other four pre-trained models.
+- Developed and implemented a real-time drowsiness detection system using OpenCV’s Haar Cascade Classifier, achieving an accurate detection rate of drowsiness and distraction.
+- Utilized Raspberry Pi 4+ and NoIR-V2 Pi camera for hardware implementation, ensuring efficient real-time processing and low energy consumption.
 
 <br>
 For further inquiries or collaborations, feel free to reach out to me at [adityasaxena@g.harvard.edu](mailto:adityasaxena@g.harvard.edu) ✉️
