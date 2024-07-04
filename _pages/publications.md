@@ -56,7 +56,7 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 
 ### <span style="color: #062C60;">4. Credit Risk Assessment Model for UAE’s Commercial Banks: A Machine Learning Approach</span>
 - **Achievement:** 2nd Place in Undergraduate Research Competition, 2021 - Peer Reviewed By Abu Dhabi University.
-- **Advisor:** [Dr. Parizad Phiroze Dungore](https://ud.ac.ae/ud_members/dr-parizad-dungore/) (Dubai Business School, University of Dubai)
+- **Advisor:** [Dr. Parizad Dungore](https://ud.ac.ae/ud_members/dr-parizad-dungore/) (Dubai Business School, University of Dubai)
 - **Publication:** [tba](https://www.researchgate.net/publication/353738030_Credit_Risk_Assessment_Model_for_UAE%27s_Commercial_Banks_A_Machine_Learning_Approach)
 - Developed a ML based credit risk model using Linear Discriminant Analysis and Adaboost, achieving 95.2% accuracy.
 - Implemented and tested models like Logistic Regression and Decision Trees on 7M+ records, identifying key risk factors through feature selection.
