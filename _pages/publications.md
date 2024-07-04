@@ -71,7 +71,7 @@ Welcome to my [Research Activities](#researchactivities) and [Publications](#pub
 ### <span style="color: #062C60;">6. Real-Time Drowsiness Detection Framework Using Computer Vision to Prevent Car & Road Accidents</span>
 - **Achievement:** Granted Intellectual Property Right
 - **Advisor:** [Dr. Raja Muthalagu](https://universe.bits-pilani.ac.in/dubai/raja/profile)
-- **Publication:** [arXiv](https://aditya-saxena-7.github.io/files/Research/files/Research/files/Real-Time%20Drowsiness%20Detection%20Using%20Computer%20Vision%20and%20Raspberry%20Pi%20to%20Prevent%20Car%20%26%20Road%20Accidents%20.pdf)
+- **Publication:** [Click Here](https://aditya-saxena-7.github.io/files/Research/files/Research/files/Real-Time%20Drowsiness%20Detection%20Using%20Computer%20Vision%20and%20Raspberry%20Pi%20to%20Prevent%20Car%20%26%20Road%20Accidents%20.pdf)
 - Developed and implemented a real-time drowsiness detection system using OpenCV’s Haar Cascade Classifier, achieving an accurate detection rate of drowsiness and distraction.
 - Utilized Raspberry Pi 4+ and NoIR-V2 Pi camera for hardware implementation, ensuring efficient real-time processing and low energy consumption.
 
