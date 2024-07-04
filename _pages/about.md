@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### <span style="color: #062144;">🎓 Masters Student at Harvard University | Graduating on December 2025</span>
+### <span style="color: #062144;">🎓 Masters Student at Harvard University | Graduating in December 2025</span>
 - Majoring in **Data Science** - Under Computer Science and Statistics Department 
 
 ### <span style="color: #062144;">🤝 Cross-Registering at MIT</span>
