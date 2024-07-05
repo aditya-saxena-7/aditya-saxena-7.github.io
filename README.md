@@ -1,4 +1,4 @@
 
-# Aditya Saxena - Academic Pages
+# Aditya Saxena - Personal Website
 
 - [Personal Website](https://aditya-saxena-7.github.io/)
