@@ -24,7 +24,7 @@ author:
   avatar           : "ProfilePicture_AdityaSaxena.jpg"
   name             : "Aditya Saxena"
   pronouns         : # example: "she/her"  
-  bio              : "Harvard | BITS Pilani | CS & Stats"
+  bio              : "CS + Stat @ Harvard | Researcher at MIT | BITS Pilani"
   location         : "Cambridge, Massachusetts, USA"
   employer         : "Harvard University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #"https://orcid.org/0000-0003-2204-9035"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Aditya-Saxena-19" # URL
+  researchgate     : #"https://www.researchgate.net/profile/Aditya-Saxena-19" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
