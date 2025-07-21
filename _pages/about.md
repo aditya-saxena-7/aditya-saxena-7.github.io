@@ -11,7 +11,7 @@ redirect_from:
 - Majoring in **Data Science** - Department Computer Science and Statistics  
 
 ### <span style="color: #062144;">Grad Student Researcher at MIT</span>
-- Focusing on applying machine-learning techniques to quantitative finance, investor behaviour, systemic risk, and adaptive markets.
+- Focusing on applying machine-learning techniques to quantitative finance, systemic risk, and adaptive markets.
 
 ### <span style="color: #062144;">Research & Specialization</span>
 - Specialized in **Machine Learning** with several notable undergraduate publications.
