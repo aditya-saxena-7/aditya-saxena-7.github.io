@@ -102,4 +102,4 @@ redirect_from:
 
 ---
 
-> _The National Undergraduate Research Competition (URIC) is the largest undergraduate research event in the GCC & MENA region, held under the UAE government’s innovation drive, with 600+ papers across 27 disciplines and 78 universities._  
+> _The National Undergraduate Research Competition (URC) is the largest undergraduate research event in the GCC & MENA region, held under the UAE government’s innovation drive, with 600+ papers across 27 disciplines and 78 universities._  
