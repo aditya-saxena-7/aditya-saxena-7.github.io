@@ -59,9 +59,5 @@ author_profile: true
 - **Conference:** Springer Nature
 - **Publication:** [Click Here](https://link.springer.com/chapter/10.1007/978-981-16-1103-2_11)
 
-### <span style="color: #062C60;">13. A Deep Learning Approach for the Detection of COVID-19 from Chest X-Ray Images Using Convolutional Neural Networks</span>
-- **Conference:** arXiv preprint
-- **Publication:** [Click Here](https://arxiv.org/abs/2201.09952)
-
 <br>
 For further inquiries or collaborations, feel free to reach out to me at [adityasaxena@g.harvard.edu](mailto:adityasaxena@g.harvard.edu) ✉️
