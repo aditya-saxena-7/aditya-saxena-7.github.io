@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Space 👋"
+title: "Welcome to My Space"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,16 +19,16 @@ redirect_from:
 
 ## <span style="color: #062144;">🧭 Navigation</span>
 
-- 🎓 [Education](#education)
-- 💼 [Work Experience](https://aditya-saxena-7.github.io/work/)
-- 📚 [Research Publications](https://aditya-saxena-7.github.io/research/)
+- [Education](#education)
+- [Work Experience](https://aditya-saxena-7.github.io/work/)
+- [Research Publications](https://aditya-saxena-7.github.io/research/)
 <!-- - 🔨 [Projects](https://aditya-saxena-7.github.io/projects/) -->
 <!-- - 📄 [Resume](https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf) -->
-- 👨‍💼 [Leadership](https://aditya-saxena-7.github.io/leadership/)
-- 🏅 [Certifications](https://aditya-saxena-7.github.io/certifications/)
+- [Leadership](https://aditya-saxena-7.github.io/leadership/)
+- [Certifications](https://aditya-saxena-7.github.io/certifications/)
 
 
-### <span style="color: #062144;">🏛️ Harvard University</span>
+### <span style="color: #062144;">Harvard University</span>
 - **Degree**: Masters in Data Science – (Computer Science & Statistics)
 - **Location**: Cambridge, MA
 - **Timeline**: August 2024 - December 2025
@@ -42,14 +42,14 @@ redirect_from:
   - Bayesian Statistics
   - Advanced Topics in Data Science
 
-### <span style="color: #062144;">🏛️ Massachusetts Institute of Technology (MIT)</span>
+### <span style="color: #062144;">Massachusetts Institute of Technology (MIT)</span>
 - **Position**: Grad Researcher, Laboratory for Information & Decision Systems
 - **Location**: Cambridge, MA
 - **Timeline**: January 2025 - May 2025
 - **Advisor**: Roy E Welsch
 - **Research Topic**: Covariance Prediction for Financial Factor Returns: A Comparative Analysis of CM-IEWMA and MGARCH
 
-### <span style="color: #062144;">🏛️ Birla Institute of Technology and Science (BITS) Pilani</span>
+### <span style="color: #062144;">Birla Institute of Technology and Science (BITS) Pilani</span>
 - **Degree**: Bachelor of Engineering in Computer Science (Distinction)
 - **Location**: Pilani, India
 - **Timeline**: June 2019 - June 2023
@@ -64,7 +64,7 @@ redirect_from:
   - Data Mining
   - Deep Learning
 
-## <span style="color: #062144;">🏆 Achievements & Awards</span>
+## <span style="color: #062144;">Achievements & Awards</span>
 
 - **BITSAA Mantra Entrepreneur of the Year Award** (1/1000) – 2023  
   [Link](https://www.bitsaa.org/page/mantra-awards)
