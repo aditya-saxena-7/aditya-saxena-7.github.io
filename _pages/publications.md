@@ -20,7 +20,7 @@ author_profile: true
 - **Publication:** ~To be Published by Jan-Feb 2026
 
 ### <span style="color: #062C60;">3. Revisiting the Equity Premium Puzzle: Time Series Analysis and Forecasting from 1990 to 2012</span>
-- **Conference:** IEEE
+- **Conference:** IEEE Xplore
 - **Publication:** [Click Here](https://ieeexplore.ieee.org/document/11041424)
 
 ### <span style="color: #062C60;">4. Enhancing Financial Latent Factor Analysis: Application of Instrumented Principal Component Analysis (IPCA) and Procrustes Alignment</span>
