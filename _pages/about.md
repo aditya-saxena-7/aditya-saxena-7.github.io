@@ -7,20 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-### <span style="color: #062144;">🎓 Masters Student at Harvard University | Graduating in December 2025</span>
+### <span style="color: #062144;">Masters Student at Harvard University | Graduating in December 2025</span>
 - Majoring in **Data Science** - Department Computer Science and Statistics  
 
-### <span style="color: #062144;">🤝 Researcher at MIT</span>
+### <span style="color: #062144;">Grad Student Researcher at MIT</span>
 - Focusing on applying machine-learning techniques to quantitative finance, investor behaviour, systemic risk, and adaptive markets.
 
-### <span style="color: #062144;">💡 Research & Specialization</span>
+### <span style="color: #062144;">Research & Specialization</span>
 - Specialized in **Machine Learning** with several notable undergraduate publications.
 - Engaged in multiple **industry-oriented** Quant Finance and ML projects and competitions.
 
-### <span style="color: #062144;">📈 Professional Work Experiences</span>
+### <span style="color: #062144;">Professional Work Experiences</span>
 - **Quant Researcher**: Delivered alphas in quantitative research for Hedge Funds, AMCs.
 - **ML & Data Engineer**: Applied machine learning & data engineering techniques to large complex datasets.
-
 
 ## <span style="color: #062144;">🧭 Navigation</span>
 
@@ -48,18 +47,18 @@ redirect_from:
   - Advanced Topics in Data Science
 
 ### <span style="color: #062144;">🏛️ Massachusetts Institute of Technology (MIT)</span>
-- **Position**: Researcher, Laboratory for Information & Decision Systems
+- **Position**: Grad Researcher, Laboratory for Information & Decision Systems
 - **Location**: Cambridge, MA
 - **Timeline**: January 2025 - May 2025
 - **Advisor**: Roy E Welsch
-- **Research Topic**: Portfolio Optimization with Stochastic Return Functions: An Algorithmic Approach
+- **Research Topic**: Covariance Prediction for Financial Factor Returns: A Comparative Analysis of CM-IEWMA and MGARCH
 
 ### <span style="color: #062144;">🏛️ Birla Institute of Technology and Science (BITS) Pilani</span>
 - **Degree**: Bachelor of Engineering in Computer Science (Distinction)
 - **Location**: Pilani, India
 - **Timeline**: June 2019 - June 2023
 - **CGPA & Honors**:
-  - 9.62/10 (Academic Excellence Awardee)
+  - CGPA: 9.62/10
   - Merit Scholarship (Top 1%)
   - National Undergraduate Research Awardee (2021, 2022)
   - BITS Mantra Research & Innovation Awardee (1/1000)
