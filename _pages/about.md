@@ -23,7 +23,7 @@ redirect_from:
 - [Work Experience](https://aditya-saxena-7.github.io/work/)
 - [Research Publications](https://aditya-saxena-7.github.io/research/)
 <!-- - 🔨 [Projects](https://aditya-saxena-7.github.io/projects/) -->
-<!-- - 📄 [Resume](https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf) -->
+- [Resume](https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf)
 - [Leadership](https://aditya-saxena-7.github.io/leadership/)
 - [Certifications](https://aditya-saxena-7.github.io/certifications/)
 
