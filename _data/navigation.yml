@@ -11,7 +11,7 @@ main:
 
   - title: "Resume"
     url: "https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf"
-    url: /resume/
+    #url: /resume/
 
   - title: "Leadership"
     url: /leadership/    
