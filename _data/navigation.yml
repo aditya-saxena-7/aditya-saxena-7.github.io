@@ -9,9 +9,9 @@ main:
   #- title: "Projects"
   #  url: /projects/
 
-  #- title: "Resume"
-  #  url: "https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf"
- #   url: /resume/
+  - title: "Resume"
+    url: "https://aditya-saxena-7.github.io/files/resume/AdityaSaxena_Resume.pdf"
+    url: /resume/
 
   - title: "Leadership"
     url: /leadership/    
